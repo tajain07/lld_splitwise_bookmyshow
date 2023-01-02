@@ -1,0 +1,12 @@
+User --> name, phone number and password
+Expense  --> group/individual ID | participants ids | who and what paid | who involved | description
+Group --> Members + Expense
+
+Settling --> api?
+----------------------------------------------------------------------------
+User's expense with other user --> api
+User's expense with group --> api
+
+
+
+
